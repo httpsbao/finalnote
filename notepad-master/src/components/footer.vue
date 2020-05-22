@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        © 2017 <a href="https://github.com/lin-xin" target="_blank">linshuai</a> 强力驱动
+        2020 加油 <a href="https://github.com/httpsbao" target="_blank">httpsbao</a>
     </footer>
 </template>
 
