@@ -2,7 +2,7 @@
   "name": "notepad",
   "version": "2.0.0",
   "description": "A Vue.js project",
-  "author": "lin-xin <2981207131@qq.com>",
+  "author": "bao",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
