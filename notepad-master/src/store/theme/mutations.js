@@ -1,5 +1,5 @@
 /**
- * Created by linxin on 2017/3/11.
+ * Created by bao
  */
 import * as func from '../function';
 
